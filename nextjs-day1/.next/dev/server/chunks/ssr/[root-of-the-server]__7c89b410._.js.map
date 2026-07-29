@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///Users/vinhhuynh/Development/NextJS/nextjs-day1/app/about/page.tsx"],"sourcesContent":["import Link from \"next/link\";\nexport const metadata = {\n    title: \"About Us\",\n    description: \"About our company and team\",\n}\n\nexport default function AboutPage() {\n    return (\n        <main className=\"p-10\">\n            <h1 className=\"text-3xl font-bold\">About Page Day 1 🚀</h1> \n            <Link href=\"/\" className=\"text-blue-600 font-bold underline mt-4 block\">Home</Link>\n            <Link href=\"/contact\" className=\"text-blue-600 font-bold underline mt-4 block\">Contact</Link>\n        </main>\n    )\n}"],"names":[],"mappings":";;;;;;;AAAA;;;AACO,MAAM,WAAW;IACpB,OAAO;IACP,aAAa;AACjB;AAEe,SAAS;IACpB,qBACI,8OAAC;QAAK,WAAU;;0BACZ,8OAAC;gBAAG,WAAU;0BAAqB;;;;;;0BACnC,8OAAC,0LAAI;gBAAC,MAAK;gBAAI,WAAU;0BAA+C;;;;;;0BACxE,8OAAC,0LAAI;gBAAC,MAAK;gBAAW,WAAU;0BAA+C;;;;;;;;;;;;AAG3F"}}]
-}
