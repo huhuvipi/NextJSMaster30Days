@@ -1,0 +1,29 @@
+[00:00:00.536] Server  LOG     ✓ Ready in 397ms
+[00:00:22.257] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:22.365] Browser WARN    Image with src "http://localhost:3000/vercel.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:03:43.072] Server  LOG     ✓ Compiled in 97ms
+[00:03:43.269] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:13:12.701] Server  LOG     ✓ Compiled in 39ms
+[00:13:59.265] Server  LOG     ✓ Compiled in 16ms
+[00:14:02.285] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:15:06.373] Server  LOG     ✓ Compiled in 18ms
+[00:18:46.324] Server  ERROR   ⨯ ReferenceError: Link is not defined
+[00:18:46.455] Browser ERROR   uncaughtError: ReferenceError: Link is not defined
+[00:20:19.455] Server  LOG     ✓ Compiled in 50ms
+[00:20:19.667] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:28:51.919] Server  LOG     ✓ Compiled in 27ms
+[05:25:25.231] Server  LOG     ✓ Compiled in 62ms
+[05:28:00.668] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:43:43.965] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:43:51.091] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:54:32.085] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:54:33.832] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:54:34.008] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:56:11.520] Server  LOG     ✓ Compiled in 25ms
+[06:08:27.031] Server  LOG     ✓ Compiled in 39ms
+[06:09:01.698] Server  LOG     ✓ Compiled in 18ms
+[06:10:46.047] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:11:21.640] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:14:55.459] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:14:56.981] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[18:16:49.724] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
