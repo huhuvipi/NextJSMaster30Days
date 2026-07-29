@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///Users/vinhhuynh/Development/NextJS/NextJSMaster30Days/nextjs-day6/app/users/%5Bid%5D/loading.tsx"],"sourcesContent":["export default function Loading() {\n  return (\n    <div style={{ padding: 24, fontFamily: 'system-ui, sans-serif' }}>\n      <h3>Loading user…</h3>\n      <p>Please wait while we load the user information.</p>\n    </div>\n  );\n}\n"],"names":[],"mappings":";;;;;;AAAe,SAAS;IACtB,qBACE,8OAAC;QAAI,OAAO;YAAE,SAAS;YAAI,YAAY;QAAwB;;0BAC7D,8OAAC;0BAAG;;;;;;0BACJ,8OAAC;0BAAE;;;;;;;;;;;;AAGT"}}]
+}

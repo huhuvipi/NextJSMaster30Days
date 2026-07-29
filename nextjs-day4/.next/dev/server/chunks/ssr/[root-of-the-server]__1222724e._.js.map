@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///Users/vinhhuynh/Development/NextJS/NextJSMaster30Days/nextjs-day4/app/page.tsx"],"sourcesContent":["import Link from \"next/link\";\nexport const metadata = {\n  title: \"Home\",\n};\nexport default function Home() {\n  return (\n    <main className=\"p-10\">\n      <h1 className=\"text-3xl font-bold\">\n        Day 1 – Next.js Master Plan 🚀\n      </h1>\n    </main>\n  )\n}"],"names":[],"mappings":";;;;;;;;AACO,MAAM,WAAW;IACtB,OAAO;AACT;AACe,SAAS;IACtB,qBACE,8OAAC;QAAK,WAAU;kBACd,cAAA,8OAAC;YAAG,WAAU;sBAAqB;;;;;;;;;;;AAKzC"}}]
+}
